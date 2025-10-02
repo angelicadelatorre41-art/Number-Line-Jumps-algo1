@@ -1,1 +1,1 @@
-# Number-Line-Jumps-algo1
+# Number-Line-Jumps-algo1 This program determines whether two kangaroos starting at different positions (x1, x2) and jumping at different speeds (v1, v2) will land on the same spot after the same number of jumps. It checks if their positions can ever be equal by using modular arithmetic, and returns "YES" if they meet, otherwise "NO".
